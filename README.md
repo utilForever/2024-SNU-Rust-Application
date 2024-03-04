@@ -4,7 +4,7 @@
 
 ## Contents
 
-- Week 0 (3/5)
+- Week 0 (3/5) [[Lecture]](./1%20-%20Lecture/240305%20-%20Rust%20Basic%20+%20Cross-Platform%20Application,%20Week%200.pdf)
   - Introduction
 - Week 1 (3/5)
   - Hello, World
