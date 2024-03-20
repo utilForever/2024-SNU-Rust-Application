@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "geometry",
+    "elevator-events",
+    "expression-evaluation",
+    "generic-logger",
+]
+resolver = "2"
