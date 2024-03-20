@@ -1,5 +1,13 @@
 pub fn transpose(matrix: [[i32; 3]; 3]) -> [[i32; 3]; 3] {
-    todo!("Implement this")
+    let mut ret = [[0; 3]; 3];
+
+    for i in 0..3 {
+        for j in 0..3 {
+            ret[i][j] = matrix[j][i];
+        }
+    }
+
+    ret
 }
 
 #[cfg(test)]
