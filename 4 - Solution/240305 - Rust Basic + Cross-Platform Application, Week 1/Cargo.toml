@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "fibonacci",
+    "collatz-sequence",
+    "nested-arrays",
+]
+resolver = "2"
