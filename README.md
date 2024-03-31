@@ -51,6 +51,8 @@
     - Methods
     - Traits
     - Deriving
+  - Assignment #2
+- Week 3 (4/2)
   - Generics
     - Generic Functions
     - Generic Data Types
@@ -72,21 +74,21 @@
     - `Read` and `Write`
     - `Default`, struct update syntax
     - Closures
-  - Assignment #2
-- Week 3 (TBA)
+  - Assignment #3
+- Week 4 (TBA)
   - Memory Management
   - Smart Pointers
   - Borrowing
   - Lifetimes
-  - Assignment #3
-- Week 4 (TBA)
+  - Assignment #4
+- Week 5 (TBA)
   - Iterators
   - Modules
   - Testing
   - Error Handling
   - Unsafe Rust
-  - Assignment #4
-- Week 5 (TBA)
+  - Assignment #5
+- Week 6 (TBA)
   - Threads
   - Channels
   - Send and Async
@@ -94,15 +96,15 @@
   - Async Basics
   - Control Flow
   - Pitfalls
-  - Assignment #5
-- Week 6 (TBA)
-  - Closures
-  - Macros
   - Assignment #6
 - Week 7 (TBA)
+  - Closures
+  - Macros
+  - Assignment #7
+- Week 8 (TBA)
   - Foreign Function Interface (FFI)
   - Rust and WebAssembly
-  - Assignment #7
+  - Assignment #8
 
 ## References
 
