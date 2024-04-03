@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "generic-min",
+    "counter",
+    "rot13",
+    "decimal",
+]
+resolver = "2"
