@@ -52,7 +52,7 @@
     - Traits
     - Deriving
   - Assignment #2
-- Week 3 (4/2) [[Assignment]](./3%20-%20Assignment/240402%20-%20Rust%20Basic%20+%20Cross-Platform%20Application,%20Week%203/)
+- Week 3 (4/2) [[Assignment]](./3%20-%20Assignment/240402%20-%20Rust%20Basic%20+%20Cross-Platform%20Application,%20Week%203/) [[Solution]](./4%20-%20Solution/240402%20-%20Rust%20Basic%20+%20Cross-Platform%20Application,%20Week%203/)
   - Generics
     - Generic Functions
     - Generic Data Types
