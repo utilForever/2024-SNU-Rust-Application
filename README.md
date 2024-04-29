@@ -75,11 +75,27 @@
     - `Default`, struct update syntax
     - Closures
   - Assignment #3
-- Week 4 (TBA)
+- Week 4 (4/30)
   - Memory Management
+    - Review of Program Memory
+    - Approaches to Memory Management
+    - Onwership
+    - Move Semantics
+    - Clone
+    - Copy Types
+    - Drop
   - Smart Pointers
+    - Box
+    - Rc
+    - Trait Objects
   - Borrowing
+    - Borrowing a Value
+    - Borrow Checking
+    - Interior Mutability
   - Lifetimes
+    - Lifetime Annotations
+    - Lifetime Elision
+    - Struct Lifetimes
   - Assignment #4
 - Week 5 (TBA)
   - Iterators
