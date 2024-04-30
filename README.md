@@ -75,7 +75,7 @@
     - `Default`, struct update syntax
     - Closures
   - Assignment #3
-- Week 4 (4/30)
+- Week 4 (4/30) [[Assignment]](./3%20-%20Assignment/240430%20-%20Rust%20Basic%20+%20Cross-Platform%20Application,%20Week%204/)
   - Memory Management
     - Review of Program Memory
     - Approaches to Memory Management
