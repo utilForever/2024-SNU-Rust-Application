@@ -97,14 +97,53 @@
     - Lifetime Elision
     - Struct Lifetimes
   - Assignment #4
-- Week 5 (TBA)
+- Week 5 (5/14)
   - Iterators
+    - `Iterator`
+    - `IntoIterator`
+    - `FromIterator`
   - Modules
+    - Modules
+    - Filesystem Hierarchy
+    - Visibility
+    - `use`, `super`, `self`
   - Testing
+    - Test Modules
+    - Other Types of Tests
+    - Compiler Lints and Clippy
   - Error Handling
+    - Panics
+    - Try Operator
+    - Try Conversions
+    - `Error` Trait
+    - `thiserror` and `anyhow`
   - Unsafe Rust
+    - Unsafe
+    - Dereferencing Raw Pointers
+    - Mutable Static Variables
+    - Unions
+    - Unsafe Functions
+    - Unsafe Traits
   - Assignment #5
 - Week 6 (TBA)
+  - Closures
+    - Capturing Variables
+      - Closures that Borrow
+      - Closures that Steal
+    - Function and Closure Types
+    - Closure Performance
+    - Closures and Safety
+      - Closures that Kill
+      - `FnOnce`
+      - `FnMut`
+      - `Copy` and `Clone` for Closures
+    - Callbacks
+    - Using Closures Effectively
+  - Assignment #6
+- Week 7 (TBA)
+  - Macros
+  - Assignment #7
+- Week 8 (TBA)
   - Threads
   - Channels
   - Send and Async
@@ -112,15 +151,11 @@
   - Async Basics
   - Control Flow
   - Pitfalls
-  - Assignment #6
-- Week 7 (TBA)
-  - Closures
-  - Macros
-  - Assignment #7
-- Week 8 (TBA)
+  - Assignment #8
+- Week 9 (TBA)
   - Foreign Function Interface (FFI)
   - Rust and WebAssembly
-  - Assignment #8
+  - Assignment #9
 
 ## References
 
