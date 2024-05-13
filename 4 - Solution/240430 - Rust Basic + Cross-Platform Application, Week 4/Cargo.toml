@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "builder-type",
+    "binary-tree",
+    "health-statistics",
+    "protobuf-parsing",
+    "circular-buffer",
+    "simple-linked-list",
+    "poker",
+]
+resolver = "2"
