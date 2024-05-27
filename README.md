@@ -125,7 +125,7 @@
     - Unsafe Functions
     - Unsafe Traits
   - Assignment #5
-- Week 6 (TBA)
+- Week 6 (5/28)
   - Closures
     - Capturing Variables
       - Closures that Borrow
@@ -144,18 +144,21 @@
   - Macros
   - Assignment #7
 - Week 8 (TBA)
-  - Threads
-  - Channels
-  - Send and Async
-  - Shared State
-  - Async Basics
-  - Control Flow
-  - Pitfalls
+  - Concurrency, Part 1
   - Assignment #8
 - Week 9 (TBA)
+  - Concurrency, Part 2
+  - Assignment #9
+- Week 10 (TBA)
+  - Asynchronous Programming, Part 1
+  - Assignment #10
+- Week 11 (TBA)
+  - Asynchronous Programming, Part 2
+  - Assignment #11
+- Week 12 (TBA)
   - Foreign Function Interface (FFI)
   - Rust and WebAssembly
-  - Assignment #9
+  - Assignment #12
 
 ## References
 
