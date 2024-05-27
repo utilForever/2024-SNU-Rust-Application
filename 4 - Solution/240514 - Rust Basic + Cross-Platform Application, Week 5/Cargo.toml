@@ -1,0 +1,10 @@
+[workspace]
+members = [
+    "iterator-method-chaining",
+    "modules-for-a-gui-library",
+    "luhn-algorithm",
+    "rewriting-with-result",
+    "ffi-wrapper",
+    "doubly-linked-list",
+]
+resolver = "2"
