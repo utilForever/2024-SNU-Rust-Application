@@ -125,7 +125,7 @@
     - Unsafe Functions
     - Unsafe Traits
   - Assignment #5
-- Week 6 (5/28) [[Lecture]](./1%20-%20Lecture/240528%20-%20Rust%20Basic%20+%20Cross-Platform%20Application,%20Week%206.pdf)
+- Week 6 (5/28) [[Lecture]](./1%20-%20Lecture/240528%20-%20Rust%20Basic%20+%20Cross-Platform%20Application,%20Week%206.pdf) [[Assignment]](./3%20-%20Assignment/240528%20-%20Rust%20Basic%20+%20Cross-Platform%20Application,%20Week%206/)
   - Closures
     - Capturing Variables
       - Closures that Borrow
