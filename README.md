@@ -140,8 +140,22 @@
     - Callbacks
     - Using Closures Effectively
   - Assignment #6
-- Week 7 (TBA)
+- Week 7 (6/25)
   - Macros
+    - Macro Basics
+      - Basics of Macro Expansion
+      - Unintended Consequences
+      - Repetition
+    - Built-in Macros
+    - Debugging Macros
+    - Building the `json!` Macro
+      - Fragment Types
+      - Recursion in Macros
+      - Using Traits with Macros
+      - Scoping and Hygiene
+      - Importing and Exporting Macros
+    - Avoiding Syntax Errors During Matching
+    - Beyond macro_rules!
   - Assignment #7
 - Week 8 (TBA)
   - Concurrency, Part 1
