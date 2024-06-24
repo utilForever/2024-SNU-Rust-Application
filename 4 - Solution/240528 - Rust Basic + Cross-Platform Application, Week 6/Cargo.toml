@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "paas-io",
+    "book-store",
+    "react",
+]
+resolver = "2"
