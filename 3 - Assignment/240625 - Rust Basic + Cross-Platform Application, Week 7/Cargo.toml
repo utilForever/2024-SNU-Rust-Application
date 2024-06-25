@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "hashmap",
+    "pangram",
+    "binary-search",
+]
+resolver = "2"
