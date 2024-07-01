@@ -157,8 +157,21 @@
     - Avoiding Syntax Errors During Matching
     - Beyond macro_rules!
   - Assignment #7
-- Week 8 (TBA)
+- Week 8 (7/2)
   - Concurrency, Part 1
+    - Fork-Join Parallelism
+      - `spawn` and `join`
+      - Error Handling Across Threads
+      - Sharing Immutable Data Across Threads
+      - `Rayon`
+    - Channels
+      - Sending Values
+      - Receiving Values
+      - Running the Pipeline
+      - Channel Features and Performance
+      - Thread Safety: `Send` and `Sync`
+      - Piping Almost Any Iterator to a Channel
+      - Beyond Pipelines
   - Assignment #8
 - Week 9 (TBA)
   - Concurrency, Part 2
