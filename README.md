@@ -173,8 +173,20 @@
       - Piping Almost Any Iterator to a Channel
       - Beyond Pipelines
   - Assignment #8
-- Week 9 (TBA)
+- Week 9 (7/9)
   - Concurrency, Part 2
+    - Shared Mutable State
+      - What Is a Mutex?
+      - `Mutex<T>`
+      - `mut` and `Mutex`
+      - Why Mutexes Are Not Always a Good Idea
+      - Deadlock
+      - Poisoned Mutexes
+      - Multiconsumer Channels Using Mutexes
+      - Read/Write Locks (`RwLock<T>`)
+      - Condition Variables (`Condvar`)
+      - Atomics
+      - Global Variables
   - Assignment #9
 - Week 10 (TBA)
   - Asynchronous Programming, Part 1
