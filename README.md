@@ -173,7 +173,7 @@
       - Piping Almost Any Iterator to a Channel
       - Beyond Pipelines
   - Assignment #8
-- Week 9 (7/9)
+- Week 9 (7/9) [[Lecture]](./1%20-%20Lecture/240709%20-%20Rust%20Basic%20+%20Cross-Platform%20Application,%20Week%209.pdf)
   - Concurrency, Part 2
     - Shared Mutable State
       - What Is a Mutex?
