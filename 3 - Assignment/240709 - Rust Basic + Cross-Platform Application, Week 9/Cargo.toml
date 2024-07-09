@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "mandelbrot-lockfree",
+]
+resolver = "2"
