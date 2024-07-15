@@ -188,16 +188,29 @@
       - Atomics
       - Global Variables
   - Assignment #9
-- Week 10 (TBA)
+- Week 10 (7/16)
   - Asynchronous Programming, Part 1
-  - Assignment #10
+    - From Synchronous to Asynchronous
+      - Futures
+      - Async Functions and Await Expressions
+      - Calling Async Functions from Synchronous Code: `block_on`
+      - Spawning Async Tasks
+      - Async Blocks
+      - Building Async Functions from Async Blocks
+      - Spawning Async Tasks on a Thread Pool
+      - But Does Your Future Implement `Send`?
+      - Long Running Computations: `yield_now` and `spawn_blocking`
+      - Comparing Asynchronous Designs
+      - A Real Asynchronous HTTP Client
 - Week 11 (TBA)
   - Asynchronous Programming, Part 2
-  - Assignment #11
 - Week 12 (TBA)
+  - Asynchronous Programming, Part 3
+  - Assignment #10
+- Week 13 (TBA)
   - Foreign Function Interface (FFI)
   - Rust and WebAssembly
-  - Assignment #12
+  - Assignment #11
 
 ## References
 
