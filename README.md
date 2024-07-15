@@ -188,7 +188,7 @@
       - Atomics
       - Global Variables
   - Assignment #9
-- Week 10 (7/16)
+- Week 10 (7/16) [[Lecture]](./1%20-%20Lecture/240716%20-%20Rust%20Basic%20+%20Cross-Platform%20Application,%20Week%2010.pdf)
   - Asynchronous Programming, Part 1
     - From Synchronous to Asynchronous
       - Futures
