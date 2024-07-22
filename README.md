@@ -202,8 +202,20 @@
       - Long Running Computations: `yield_now` and `spawn_blocking`
       - Comparing Asynchronous Designs
       - A Real Asynchronous HTTP Client
-- Week 11 (TBA)
+- Week 11 (7/23)
   - Asynchronous Programming, Part 2
+    - From Synchronous to Asynchronous
+      - But Does Your Future Implement `Send`?
+      - Long Running Computations: `yield_now` and `spawn_blocking`
+      - Comparing Asynchronous Designs
+      - A Real Asynchronous HTTP Client
+    - An Asynchronous Client and Server
+      - Error and Result Types
+      - The Protocol
+      - Talking User Input: Asynchronous Streams
+      - Sending Packets
+      - Receving Packets: More Asynchronous Streams
+      - The Client's Main Function
 - Week 12 (TBA)
   - Asynchronous Programming, Part 3
   - Assignment #10
