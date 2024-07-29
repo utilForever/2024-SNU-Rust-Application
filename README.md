@@ -216,8 +216,21 @@
       - Sending Packets
       - Receving Packets: More Asynchronous Streams
       - The Client's Main Function
-- Week 12 (TBA)
+- Week 12 (7/30)
   - Asynchronous Programming, Part 3
+    - An Asynchronous Client and Server
+      - The Server's Main Function
+      - Handling Chat Connections: Async Mutexes
+      - The Group Table: Synchronous Mutexes
+      - Chat Groups: `tokio`'s Broadcast Channels
+    - Primitive Futures and Executors: When Is a Future Worth Polling Again?
+      - Invoking Wakers: `spawn_blocking`
+      - Implementing `block_on`
+    - Pinning
+      - The Two Life Stages of a Future
+      - Pinned Pointers
+      - The `Unpin` 
+    - When Is Asynchronous Code Helpful?
   - Assignment #10
 - Week 13 (TBA)
   - Foreign Function Interface (FFI)
