@@ -224,6 +224,9 @@
       - The Group Table: Synchronous Mutexes
       - Chat Groups: `tokio`'s Broadcast Channels
     - Primitive Futures and Executors: When Is a Future Worth Polling Again?
+- Week 13 (8/13)
+  - Asynchronous Programming, Part 4
+    - Primitive Futures and Executors: When Is a Future Worth Polling Again?
       - Invoking Wakers: `spawn_blocking`
       - Implementing `block_on`
     - Pinning
@@ -232,7 +235,7 @@
       - The `Unpin` 
     - When Is Asynchronous Code Helpful?
   - Assignment #10
-- Week 13 (TBA)
+- Week 14 (TBA)
   - Foreign Function Interface (FFI)
   - Rust and WebAssembly
   - Assignment #11
