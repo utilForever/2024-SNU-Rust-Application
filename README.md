@@ -2,6 +2,10 @@
 
 2024-SNU-Rust-Application is the material(lecture notes, examples and assignments) repository for learning Rust programming language and making a simple cross-platform application at Seoul National University Club 'SCSC' and 'WaffleStudio' in 2024 Spring.
 
+## Updates
+
+- 2024-10-02: Added new contents for lecture "Closures" and renewed Assignment #6 and its solution.
+
 ## Contents
 
 - Week 0 (3/5) [[Lecture]](./1%20-%20Lecture/240305%20-%20Rust%20Basic%20+%20Cross-Platform%20Application,%20Week%200.pdf)
